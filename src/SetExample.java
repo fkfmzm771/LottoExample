@@ -3,7 +3,7 @@ import java.util.LinkedHashSet;
 import java.util.Set;
 import java.util.TreeSet;
 
-public class ExamClass {
+public class SetExample {
 	public static void main(String[] args) {
 		//Set 설명
 
