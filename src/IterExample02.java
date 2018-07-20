@@ -35,7 +35,7 @@ public class IterExample02 {
 		iterExam(iter = aSet2.iterator());
 	}
 
-	//메소드의 인수를 Iterator형식으로 통일 시켜서 출력하는 함수를 생성
+	//인수를 Iterator형식으로 통일 시켜서 출력하는 함수를 생성
 	public static void iterExam(Iterator<String> iter) {
 		while (iter.hasNext()) {
 			System.out.print(iter.next());
